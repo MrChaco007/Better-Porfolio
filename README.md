@@ -37,8 +37,8 @@ Lastly, if I like his work and think his resume is viable, I would like to learn
 
 [Front End Repo](https://github.com/MrChaco007/Better-Portfolio-Front)  
 
-[Back End Repo]()
+[Back End Repo](https://github.com/MrChaco007/Better-Portfolio-Back)
 
 [Netlify](https://alex-chaconas.netlify.app/)
 
-[Heroku]()
+[Heroku](https://better-portfolio-back.herokuapp.com/hello/)
