@@ -35,10 +35,10 @@ Lastly, if I like his work and think his resume is viable, I would like to learn
 
 ## Project Links ##
 
-[Front End Repo]()  
+[Front End Repo](https://github.com/MrChaco007/Better-Portfolio-Front)  
 
 [Back End Repo]()
 
-[Netlify]()
+[Netlify](https://alex-chaconas.netlify.app/)
 
 [Heroku]()
