@@ -22,6 +22,17 @@ If I like his work, I would also like to see his resume so I can view his experi
 
 Lastly, if I like his work and think his resume is viable, I would like to learn more about his character. This means the about page should show off his most valuable traits and his personal pages where I can read more about him. 
 
+### Priorities ### 
+#### MVP ####
+* Navbar
+* Project Page
+* Project Data
+* Who/What Page
+* Contact Button
+
+#### Post-MVP ####
+* Additional Design (Including Animation)
+
 ## Project Links ##
 
 [Front End Repo]()  
