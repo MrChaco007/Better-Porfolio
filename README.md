@@ -24,14 +24,20 @@ Lastly, if I like his work and think his resume is viable, I would like to learn
 
 ### Priorities ### 
 #### MVP ####
-* Navbar
-* Project Page
-* Project Data
-* Who/What Page
-* Contact Button
+| Item | Est. Time | Actual Time |
+|------|-----------|-------------|
+|Navbar|5hrs        |             |
+|Project Page| 15hrs|             |
+|Python/Django Setup (CRUD)| 10hrs|      |
+|Who/What Page     | 5hrs         |
+|Contact Button/Form | 2hrs      |
+|Total | 32hrs
 
 #### Post-MVP ####
-* Additional Design (Including Animation)
+| Item | Est. Time | Actual Time |
+|------|-----------|-------------|
+|Additional Design (Including Animation)| 5hrs ||
+|Total | 5hrs | |
 
 ## Project Links ##
 
