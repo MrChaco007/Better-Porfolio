@@ -26,18 +26,18 @@ Lastly, if I like his work and think his resume is viable, I would like to learn
 #### MVP ####
 | Item | Est. Time | Actual Time |
 |------|-----------|-------------|
-|Navbar|5hrs        |             |
-|Project Page| 15hrs|             |
-|Python/Django Setup (CRUD)| 10hrs|      |
-|Who/What Page     | 5hrs         |
-|Contact Button/Form | 2hrs      |
-|Total | 32hrs
+|Navbar|5hrs        |    6hrs         |
+|Project Page| 15hrs|       12hrs      |
+|Python/Django Setup (CRUD)| 10hrs|  10hr    |
+|Who/What Page     | 5hrs         | 5hr
+|Contact Button/Form | 2hrs      | 4hrs
+|Total | 37hrs | 37hrs
 
 #### Post-MVP ####
 | Item | Est. Time | Actual Time |
 |------|-----------|-------------|
-|Additional Design (Including Animation)| 5hrs ||
-|Total | 5hrs | |
+|Additional Design (Including Animation)| 5hrs | 15hrs|
+|Total | 5hrs | 15hrs|
 
 ## Project Links ##
 
