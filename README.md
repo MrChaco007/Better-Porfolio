@@ -45,6 +45,6 @@ Lastly, if I like his work and think his resume is viable, I would like to learn
 
 [Back End Repo](https://github.com/MrChaco007/Better-Portfolio-Back.git)
 
-[Netlify](https://alex-chaconas.netlify.app/)
+[Netlify](alexander-chaconas.com)
 
-[Heroku](https://better-portfolio-back.herokuapp.com/)
+[Heroku](https://better-portfolio-back.herokuapp.com/projects)
